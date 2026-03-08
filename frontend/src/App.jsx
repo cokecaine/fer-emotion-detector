@@ -242,8 +242,7 @@ function App() {
       </main>
       <footer className="footer">
         <p>
-          &copy; <year>{new Date().getFullYear()}</year> Face Emotion
-          Recognition. All rights reserved.
+          &copy; <year>{new Date().getFullYear()}</year> Developed by Cokecaine. All rights reserved.
         </p>
       </footer>
     </div>
