@@ -145,7 +145,7 @@ function HomePage({ setPage }) {
             Start detecting
             <IconArrow />
           </button>
-          <a className="btn-hero-secondary" href="https://github.com" target="_blank" rel="noopener noreferrer" id="hero-github-btn">
+          <a className="btn-hero-secondary" href="https://github.com/cokecaine/fer-emotion-detector" target="_blank" rel="noopener noreferrer" id="hero-github-btn">
             View on GitHub
           </a>
         </div>
